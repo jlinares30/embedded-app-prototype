@@ -1,0 +1,19 @@
+# JetBrains IDE
+.idea/
+
+# CMake build directories
+cmake-build-*/
+build/
+
+# Object files
+*.o
+*.obj
+
+# Binaries
+*.exe
+*.elf
+*.bin
+*.hex
+
+# Arduino build artifacts
+*.a
